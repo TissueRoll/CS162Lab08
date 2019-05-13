@@ -1,22 +1,26 @@
-*----------------------*
-| What is the program? |
-*----------------------*
-
-Displays the time exery 10 seconds and runs xclock.
-
-*------------*
-| How to run |
-*------------*
-
-Only runs on Unix systems with xclock.
-Compile the cpp file with
-	g++ CS162B_Lab06b_Dizon.cpp -o CS162B_Lab06b_Dizon
-then run
-	./ CS162B_Lab06b_Dizon
-
-*--------------------------*
-| Functions and Operations |
-*--------------------------*
-
-Creates a child process with xclock.
-Continually prints the time in the parent process every 10 seconds.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
